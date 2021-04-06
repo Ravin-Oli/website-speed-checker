@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "GTmetrix Analyzer Plugin",
-  "description": "This extension will analyze a page using GTmetrix",
-  "version": "1.0",
+  "name": "GTmetrix Website Speed Analyzer Plugin",
+  "description": "This extension will analyze a page using the GTmetrix service",
+  "version": "1.4.3",
 
   "browser_action": {
    "default_icon": "icon.png",
